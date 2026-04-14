@@ -1,4 +1,5 @@
-#!/bin/bash
+#This script is for those who want to use the non-repeating images in one cycle. 
+
 LOGO_DIR="/home/cachy/.config/fastfetch/PNGs"
 HISTORY_FILE="/home/cachy/.config/fastfetch/logo_history"
 
